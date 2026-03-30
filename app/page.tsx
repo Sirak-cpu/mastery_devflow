@@ -1,5 +1,3 @@
-import React from "react";
-
 const Home = () => (
   <>
     <h1 className="h1-bold">Well come to the world of nextjs</h1>
